@@ -9,19 +9,19 @@ One obvious requirement to run WinGhci is to have GHC installed on your system. 
 
 Next, uncompress WinGhci binary distribution on a directory of your choice. There you will find the following files:
 
-* WinGhciFile.ico: an icon for haskell source files. It includes icons of up to 256x256 pixels for Windows Vista.
+ * WinGhciFile.ico: an icon for haskell source files. It includes icons of up to 256x256 pixels for Windows Vista.
 
-* Install.exe: run this program to associate ".hs" files with WinGhci. Addtionally, the previous icon will be associated. It is important to run this program from the directory where WinGhci will ramin installed. If you move WinGhci, you must run this program again. Note that the whole process of association is optional. 
+ * Install.exe: run this program to associate ".hs" files with WinGhci. Addtionally, the previous icon will be associated. It is important to run this program from the directory where WinGhci will ramin installed. If you move WinGhci, you must run this program again. Note that the whole process of association is optional. 
 
-* WinGhci.exe: this file corresponds to WinGhci application. Run it to start WinGhci. 
+ * WinGhci.exe: this file corresponds to WinGhci application. Run it to start WinGhci. 
 
-* StartGHCI.exe: this is an auxiliary program used by WinGhi to start GHCI. You should not run it.
+ * StartGHCI.exe: this is an auxiliary program used by WinGhi to start GHCI. You should not run it.
 
-* StartProcess.exe: this is an auxiliary program used by WinGhi to start invoke an editor withing GHCI without blocking GHCI. You should not run it.
+ * StartProcess.exe: this is an auxiliary program used by WinGhi to start invoke an editor withing GHCI without blocking GHCI. You should not run it.
 
-* license.txt: this is WinGhci license.
+ * license.txt: this is WinGhci license.
 
-* authors.txt: credits to WinGhci authors
+ * authors.txt: credits to WinGhci authors
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
