@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-
+#In this page, it is described how to install WinGhci
 = Introduction =
 
 Currently, there is no installation program for WinGhci. The way to install WinGhci manually is described below.
