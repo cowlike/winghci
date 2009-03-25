@@ -12,7 +12,7 @@ Next, uncompress WinGhci binary distribution on a directory of your choice. Ther
 
 WinGhciFile.ico: an icon for haskell source files. It includes icons of up to 256x256 pixels for Windows Vista.
 
-Install.exe: run this program to associate ".hs" files with WinGhci. Addtionally, the previous icon will be associated. Note that the association is optional. 
+Install.exe: run this program to associate ".hs" files with WinGhci. Addtionally, the previous icon will be associated. It is important to run this program from the directory where WinGhci will ramin installed. If you move WinGhci, you must run this program again. Note that the whole process of association is optional. 
 
 WinGhci.exe: this file corresponds to WinGhci application. Run it to start WinGhci. 
 
