@@ -1,5 +1,5 @@
 #WinGhci features are described in this page
-= Introduction =
+= Resume of WinGhci features =
 
 WinGhci is quite similar to WinHugs, so hopefully most people will find it easy to use. Basically, GHCI is run inside a Windows Rich Edit control, so you can issue there GHCI commands. 
 
@@ -23,4 +23,3 @@ There are also some shortcuts to access most usual commands:
 Additionally, ctrl+0 to ctrl+9 can be used to invoke user defined commands available through the `Tools` menu entry. These commands can be defined using the `Tools->Configure Tools` dialog. Note that the text "`<`fileName`>`" will be replaced by the name of the currently loaded file, and "`<`fileExt`>`" will be replaced by its extension. For instance, there is a default command to invoke GHC on the currently loaded file already defined as follows:
 
 :! ghc --make "`<`fileName`>``<`fileExt`>`"
-
