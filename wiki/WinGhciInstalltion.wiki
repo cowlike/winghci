@@ -1,7 +1,7 @@
 #In this page, it is described how to install WinGhci
 = Introduction =
 
-Currently, there is no installation program for WinGhci. The way to install WinGhci manually is described below.
+Currently, there is no installation program for WinGhci. The way to manually install WinGhci is described below.
 
 = Manual installation =
 
